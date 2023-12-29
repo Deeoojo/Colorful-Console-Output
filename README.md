@@ -1,7 +1,7 @@
-<h1>User Interface</h1>
+<h1>Colorful Console Output</h1>
 
 <h2>Description</h2>
-This Python script adds a splash of color to command-line interface, creating a vibrant and engaging user experience. The color_change function makes it easy to display text in various colors, enhancing the visual appeal of console applications.
+This Python script adds a splash of color to the command-line interface, creating a vibrant and engaging user experience. The color_change function makes displaying text in various colors easy, enhancing the visual appeal of console applications.
 <br />
 
 
@@ -24,7 +24,7 @@ The script provides an example interface for a music app, utilizing the color_ch
 The script also demonstrates an alternative interface for a fictional social networking site called "Armbook."
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/nENvAWP.png" height="80%" width="80%" alt="Colourful User Interface"/>
+<img src="https://i.imgur.com/nENvAWP.png" height="80%" width="80%" alt="Colourful Console Output"/>
 
 <a href = "https://replit.com/@DanielOmotayo/Day31100-days" > Link to Replit </a>
 <br />
